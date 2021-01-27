@@ -1,0 +1,2 @@
+(this.webpackJsonpcvpn=this.webpackJsonpcvpn||[]).push([[0],{10:function(n,c,t){},11:function(n,c,t){"use strict";t.r(c);var e=t(0),i=t(1),o=t.n(i),r=t(3),s=t.n(r);t(9),t(10);var p=function(){return Object(e.jsxs)("div",{className:"App",children:["Link : ",Object(e.jsx)("p",{children:"http://www.google.com"}),"Link : ",Object(e.jsx)("p",{children:"production"})]})};s.a.render(Object(e.jsx)(o.a.StrictMode,{children:Object(e.jsx)(p,{})}),document.getElementById("root"))},9:function(n,c,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.03041e8f.chunk.js.map

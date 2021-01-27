@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cvpn/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cvpn/static/js/main.03041e8f.chunk.js",
+    "main.js.map": "/cvpn/static/js/main.03041e8f.chunk.js.map",
+    "runtime-main.js": "/cvpn/static/js/runtime-main.66790d1e.js",
+    "runtime-main.js.map": "/cvpn/static/js/runtime-main.66790d1e.js.map",
+    "static/js/2.54766ef2.chunk.js": "/cvpn/static/js/2.54766ef2.chunk.js",
+    "static/js/2.54766ef2.chunk.js.map": "/cvpn/static/js/2.54766ef2.chunk.js.map",
+    "index.html": "/cvpn/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cvpn/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.54766ef2.chunk.js.LICENSE.txt": "/cvpn/static/js/2.54766ef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66790d1e.js",
+    "static/js/2.54766ef2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.03041e8f.chunk.js"
+  ]
+}
